@@ -1,0 +1,16 @@
+---
+_hotel_id: HOT588
+_portal_id: required-but-empty
+_root_path: https://qa5.ttaws.com/rt
+latitude: 44.30393
+longitude: 9.21173
+name: Hotel Piccolo Portofino
+email: steffan@traveltripper.io
+phone_number: 001-111-1111
+address:
+  street1: Via Duca degli Abruzzi 31
+  street2: ''
+  state: ''
+  city: Portofino
+  country: 
+  zip_code: '16034'
