@@ -1,4 +1,5 @@
 ---
+- location/: location/location.html
 - google: http://www.google.com
 - home-page: ''
 - address: contact-us
