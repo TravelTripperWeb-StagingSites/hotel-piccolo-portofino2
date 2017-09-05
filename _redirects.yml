@@ -1,4 +1,5 @@
 ---
+- location/: location/location.html
 - google: http://www.google.com
 - home-page: ''
 - address: contact-us
@@ -6,5 +7,4 @@
 - SUBSCRIBE: home/
 - Press-Releases/: press/
 - Dining: dining/dinner.html
-- location: location/
 - events/abc.html: events/
